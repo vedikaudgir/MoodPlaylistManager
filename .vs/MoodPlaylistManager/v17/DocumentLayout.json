@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\csharpPrograms\\webApps\\MoodPlaylistManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7A8A4F-EB9C-4465-8C4E-F2C971CC88CE}|MoodPlaylistManager.csproj|d:\\csharpprograms\\webapps\\moodplaylistmanager\\controllers\\songscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7A8A4F-EB9C-4465-8C4E-F2C971CC88CE}|MoodPlaylistManager.csproj|solutionrelative:controllers\\songscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7A8A4F-EB9C-4465-8C4E-F2C971CC88CE}|MoodPlaylistManager.csproj|d:\\csharpprograms\\webapps\\moodplaylistmanager\\controllers\\playlistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7A8A4F-EB9C-4465-8C4E-F2C971CC88CE}|MoodPlaylistManager.csproj|solutionrelative:controllers\\playlistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7A8A4F-EB9C-4465-8C4E-F2C971CC88CE}|MoodPlaylistManager.csproj|d:\\csharpprograms\\webapps\\moodplaylistmanager\\models\\entities\\songs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7A8A4F-EB9C-4465-8C4E-F2C971CC88CE}|MoodPlaylistManager.csproj|solutionrelative:models\\entities\\songs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7A8A4F-EB9C-4465-8C4E-F2C971CC88CE}|MoodPlaylistManager.csproj|d:\\csharpprograms\\webapps\\moodplaylistmanager\\models\\entities\\playlists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7A8A4F-EB9C-4465-8C4E-F2C971CC88CE}|MoodPlaylistManager.csproj|solutionrelative:models\\entities\\playlists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7A8A4F-EB9C-4465-8C4E-F2C971CC88CE}|MoodPlaylistManager.csproj|d:\\csharpprograms\\webapps\\moodplaylistmanager\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7A8A4F-EB9C-4465-8C4E-F2C971CC88CE}|MoodPlaylistManager.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7A8A4F-EB9C-4465-8C4E-F2C971CC88CE}|MoodPlaylistManager.csproj|d:\\csharpprograms\\webapps\\moodplaylistmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7A8A4F-EB9C-4465-8C4E-F2C971CC88CE}|MoodPlaylistManager.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7A8A4F-EB9C-4465-8C4E-F2C971CC88CE}|MoodPlaylistManager.csproj|d:\\csharpprograms\\webapps\\moodplaylistmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D7A8A4F-EB9C-4465-8C4E-F2C971CC88CE}|MoodPlaylistManager.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SongsController.cs",
+              "DocumentMoniker": "D:\\csharpPrograms\\webApps\\MoodPlaylistManager\\Controllers\\SongsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SongsController.cs",
+              "ToolTip": "D:\\csharpPrograms\\webApps\\MoodPlaylistManager\\Controllers\\SongsController.cs",
+              "RelativeToolTip": "Controllers\\SongsController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAuwDQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T13:16:34.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\csharpPrograms\\webApps\\MoodPlaylistManager\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\csharpPrograms\\webApps\\MoodPlaylistManager\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T12:53:40.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlaylistsController.cs",
+              "DocumentMoniker": "D:\\csharpPrograms\\webApps\\MoodPlaylistManager\\Controllers\\PlaylistsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PlaylistsController.cs",
+              "ToolTip": "D:\\csharpPrograms\\webApps\\MoodPlaylistManager\\Controllers\\PlaylistsController.cs",
+              "RelativeToolTip": "Controllers\\PlaylistsController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T12:50:23.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\csharpPrograms\\webApps\\MoodPlaylistManager\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\csharpPrograms\\webApps\\MoodPlaylistManager\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T12:53:17.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\csharpPrograms\\webApps\\MoodPlaylistManager\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\csharpPrograms\\webApps\\MoodPlaylistManager\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-01T12:53:37.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Playlists.cs",
+              "DocumentMoniker": "D:\\csharpPrograms\\webApps\\MoodPlaylistManager\\Models\\Entities\\Playlists.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Playlists.cs",
+              "ToolTip": "D:\\csharpPrograms\\webApps\\MoodPlaylistManager\\Models\\Entities\\Playlists.cs",
+              "RelativeToolTip": "Models\\Entities\\Playlists.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T12:52:24.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Songs.cs",
+              "DocumentMoniker": "D:\\csharpPrograms\\webApps\\MoodPlaylistManager\\Models\\Entities\\Songs.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Songs.cs",
+              "ToolTip": "D:\\csharpPrograms\\webApps\\MoodPlaylistManager\\Models\\Entities\\Songs.cs",
+              "RelativeToolTip": "Models\\Entities\\Songs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T12:51:51.896Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
